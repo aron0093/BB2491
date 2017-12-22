@@ -4,3 +4,5 @@ Project in high-throughput analysis of data from molecular biology experiments a
 Some scripts associated with this project. In parcticular,
 
 - Unimod_parser.py: A script to parse Unimod obo format data and generate a list of modifications by ID along with monoisotopic and average mass along with a flag indicating possibility of being a PTM.
+- Unimod.txt: Unimod data in obo format.
+- PTM_list_mass: Parsed data generated from the script.
